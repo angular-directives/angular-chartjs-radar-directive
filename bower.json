@@ -1,0 +1,24 @@
+{
+  "name": "angular-chartjs-radar-directive",
+  "main": "angular-chartjs-radar-directive.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/angular-directives/angular-chartjs-radar-directive",
+  "authors": [
+    "Stephane Begaudeau <stephane.begaudeau@obeo.fr>"
+  ],
+  "keywords": [
+    "chartjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartjs": "~0.2.0"
+  }
+}
